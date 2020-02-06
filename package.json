@@ -1,0 +1,25 @@
+{
+  "name": "pia-nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "pia-prob1": "node pia-prob1.js",
+    "pia-prob2": "node pia-prob2.js",
+    "pia-prob3": "node pia-prob3.js",
+    "pia-prob4": "node pia-prob4.js",
+    "pia-prob5": "node pia-prob5.js",
+    "pia-prob6": "node pia-prob6.js",
+    "pia-prob7": "node pia-prob7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
